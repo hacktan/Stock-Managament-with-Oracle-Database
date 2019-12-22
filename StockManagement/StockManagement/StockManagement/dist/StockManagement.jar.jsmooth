@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<embeddedJar>false</embeddedJar>
+<executableName>myprog.exe</executableName>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+</jsmoothproject>
